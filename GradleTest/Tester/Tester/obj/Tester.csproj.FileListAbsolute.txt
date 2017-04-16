@@ -1,0 +1,5 @@
+C:\Users\awebd\Desktop\GradleTest\Tester\Tester\bin\Tester.exe
+C:\Users\awebd\Desktop\GradleTest\Tester\Tester\bin\Tester.pdb
+C:\Users\awebd\Desktop\GradleTest\Tester\Tester\obj\Tester.csprojResolveAssemblyReference.cache
+C:\Users\awebd\Desktop\GradleTest\Tester\Tester\obj\Tester.exe
+C:\Users\awebd\Desktop\GradleTest\Tester\Tester\obj\Tester.pdb
